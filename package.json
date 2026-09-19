@@ -1,0 +1,23 @@
+{
+  "name": "omnidisk",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Local-first, multi-provider fragmented storage router.",
+  "workspaces": [
+    "server",
+    "web"
+  ],
+  "scripts": {
+    "dev:server": "npm run dev --workspace=server",
+    "dev:web": "npm run dev --workspace=web",
+    "build:server": "npm run build --workspace=server",
+    "build:web": "npm run build --workspace=web",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "migrate:blocks": "npm run migrate:blocks --workspace=server"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.4"
+  }
+}
