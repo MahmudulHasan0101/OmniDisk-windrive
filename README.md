@@ -14,11 +14,8 @@ you connect.
 
 | Dashboard | File Explorer |
 | :---: | :---: |
-| ![Dashboard: combined free space and per-account cards](img/dashboard.png) | ![File Explorer: browse, upload and manage files](img/file-explorer.png) |
-| **Add a provider** | **Settings** |
-| ![Add a provider: catalog-driven connect flow](img/add-provider.png) | ![Settings: block size, compression, priority mode](img/settings.png) |
-| **Mounted as a drive (WebDAV)** | **Upload in progress** |
-| ![OmniDisk mounted as a network drive in Explorer](img/mounted-drive.png) | ![Per-block upload progress across accounts](img/upload-progress.png) |
+| (img/p1.png) | (img/p2.png) |
+
 
 ## About this build
 
