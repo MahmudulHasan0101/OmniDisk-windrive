@@ -14,7 +14,8 @@ you connect.
 
 | Dashboard | File Explorer |
 | :---: | :---: |
-| (img/p1.png) | (img/p2.png) |
+| ![p1](img/p1.png) | ![p2](img/p2.png) |
+|---|---|
 
 
 ## About this build
